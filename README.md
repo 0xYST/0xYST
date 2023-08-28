@@ -11,6 +11,9 @@
     <img id="preview" src="https://komarev.com/ghpvc/?username=Hexseral&color=grey">
 </p>
 
+<a href="https://leetcode.com/drknzz/"><img width="48%" src="https://leetcode.card.workers.dev/hexseral?theme=dark&font=baloo&extension=null&border=2&border_radius=8"></a>
+
+
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://discord.gg/qxjr7XNhF9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="qxjr7XNhF9" height="30" width="40" /></a>
