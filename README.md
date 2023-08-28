@@ -11,7 +11,7 @@
     <img id="preview" src="https://komarev.com/ghpvc/?username=Hexseral&color=grey">
 </p>
 
-<a href="https://leetcode.com/hexseral/" align="center"><img width="48%" src="https://leetcode.card.workers.dev/hexseral?theme=dark&font=baloo&extension=null&border=2&border_radius=8"></a>
+<p align="center"><a href="https://leetcode.com/hexseral/"><img width="48%" src="https://leetcode.card.workers.dev/hexseral?theme=dark&font=baloo&extension=null&border=2&border_radius=8"></a></p>
 
 
 <h3 align="center">Connect with me:</h3>
